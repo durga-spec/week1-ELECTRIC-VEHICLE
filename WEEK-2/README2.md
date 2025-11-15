@@ -107,3 +107,17 @@ Efficiency (km/kWh) and fast-charging capability also impact range.
 
 Categorical variables (Brand, Country) add useful patterns after encoding.
 
+
+###WEEK-2 Summary 
+> cleaned dataset
+> encoded categorical features
+> Trained a linear regression model
+> Evaluate model performance
+> saved model for deployment in week-3
+> prepared dataset for improvement 
+
+
+
+
+
+
