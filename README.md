@@ -1,3 +1,7 @@
+⚡ EV Prediction Project
+
+This project demonstrates end-to-end work on **Electric Vehicle (EV) data**, including **data exploration, machine learning model building, prediction dashboards, visualization, and chatbot integration**.
+
 ---
 
 ## Week 1: Data Exploration & Preprocessing
