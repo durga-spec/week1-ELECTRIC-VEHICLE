@@ -58,3 +58,10 @@ This project demonstrates end-to-end work on **Electric Vehicle (EV) data**, inc
 1. Clone the repository
    ```bash
    git clone https://github.com/yourusername/EV_Prediction_Project.git
+
+2.Access the deployed EV Prediction Dashboard here:
+[Open EV Prediction Dashboard](https://share.streamlit.io/durga-spec/Electric_Vehicle_Prediction/main/WEEK-3/app.py)
+
+###Conclusion
+This app simplifies EV metric estimation and provides interactive insights for decision making
+
